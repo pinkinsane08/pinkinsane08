@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Senthamizh Gajenshiran
 - 👀 I’m interested in field of cyber forensics and network security
-- 🌱 I’m currently learning Amrita University 
+- 🌱 I’m currently learning at SRM University 
 - 💞️ I’m looking to collaborate on cyber related projects 
 - 📫 Reach me at my linkedin profile https://www.linkedin.com/in/senthamizh-gajendhiran/
 - 
